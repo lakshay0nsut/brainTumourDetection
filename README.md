@@ -22,16 +22,14 @@ The project includes a **Flask-based web application** for real-time MRI upload 
 ## 🖼️ Flask Web Application
 
 ### 🔹 Home Page – MRI Upload Interface
-*(Insert your Flask app home page screenshot here)*
 
-![Flask App Home](images/flask_home.png)
+![Flask App Home](images/front.png)
 
 ---
 
 ### 🔹 Prediction Output – Tumor Classification Result
-*(Insert prediction result screenshot here)*
 
-![Prediction Result](images/flask_result.png)
+![Prediction Result](images/result.png)
 
 > 📌 These screenshots demonstrate real-time MRI upload and model inference using the deployed CNN model.
 
