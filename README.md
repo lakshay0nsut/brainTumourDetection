@@ -23,13 +23,12 @@ The project includes a **Flask-based web application** for real-time MRI upload 
 
 ### 🔹 Home Page – MRI Upload Interface
 
-![Flask App Home](images/Screenshot (230).png)
+![Flask App Home](images/Screenshot%20(230).png)
 
 ---
 
-### 🔹 Prediction Output – Tumor Classification Result
-
-![Prediction Result](images/Screenshot (232).png)
+## 🔹 Prediction Output – Tumor Classification Result
+![Prediction Result](images/Screenshot%20(232).png)
 
 > 📌 These screenshots demonstrate real-time MRI upload and model inference using the deployed CNN model.
 
